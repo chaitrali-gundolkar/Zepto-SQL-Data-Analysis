@@ -60,7 +60,7 @@ The dataset contains product-related information, including:
 10. Which categories have the highest average discount percentage?
 
 ## Project Files
-- `zepto_analysis.sql` — SQL queries used for data exploration, cleaning, and analysis.
+- `zepto_sql_queries.sql` — SQL queries used for data exploration, cleaning, and analysis.
 - `zepto_v1_utf8.csv` — Dataset used in the project.
 
 ## Key Learnings
