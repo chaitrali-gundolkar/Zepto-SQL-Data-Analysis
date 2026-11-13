@@ -49,7 +49,7 @@ The dataset contains product-related information, including:
 
 ## Business Questions Answered
 1. Find the top 10 best-value products based on the discount percentage.
-2. Are there any missing values in the product data?
+2. What are the Products with High MRP but Out of Stock
 3. What product categories are available?
 4. How many product records are in stock and out of stock?
 5. Which product names appear multiple times?
