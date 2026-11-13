@@ -48,7 +48,7 @@ The dataset contains product-related information, including:
 - CREATE TABLE
 
 ## Business Questions Answered
-1. How many records are present in the dataset?
+1. Find the top 10 best-value products based on the discount percentage.
 2. Are there any missing values in the product data?
 3. What product categories are available?
 4. How many product records are in stock and out of stock?
