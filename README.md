@@ -53,7 +53,7 @@ The dataset contains product-related information, including:
 3. Calculate Estimated Revenue for each category
 4. Find all products where MRP is greater than ₹500 and discount is less than 10%.
 5. Identify the top 5 categories offering the highest average discount percentage.
-6. Identify the top 5 categories offering the highest average discount percentage.
+6.  Find the price per gram for products above 100g and sort by best value.
 7. Which high-MRP products are out of stock?
 8. What is the estimated available inventory value for each category?
 9. Which products have an MRP greater than ₹500 and a discount below 10%?
