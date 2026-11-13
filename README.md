@@ -55,9 +55,7 @@ The dataset contains product-related information, including:
 5. Identify the top 5 categories offering the highest average discount percentage.
 6.  Find the price per gram for products above 100g and sort by best value.
 7. Group the products into categories like Low, Medium, Bulk.
-8. What is the estimated available inventory value for each category?
-9. Which products have an MRP greater than ₹500 and a discount below 10%?
-10. Which categories have the highest average discount percentage?
+8. What is the Total Inventory Weight Per Category 
 
 ## Project Files
 - `zepto_sql_queries.sql` — SQL queries used for data exploration, cleaning, and analysis.
