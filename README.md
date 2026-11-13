@@ -51,7 +51,7 @@ The dataset contains product-related information, including:
 1. Find the top 10 best-value products based on the discount percentage.
 2. What are the Products with High MRP but Out of Stock
 3. Calculate Estimated Revenue for each category
-4. How many product records are in stock and out of stock?
+4. Find all products where MRP is greater than ₹500 and discount is less than 10%.
 5. Which product names appear multiple times?
 6. Which products have the highest discount percentages?
 7. Which high-MRP products are out of stock?
